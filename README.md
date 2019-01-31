@@ -1,2 +1,5 @@
 # theInternship-problem1
-Copy ONLY the text files and .cpp file into c complier project folder. Or add to project to visual studio code.
+Copy the follow file into a project folder and build it with c complier.
+Animal_name.txt	
+Influencial_figures.txt
+Main.cpp
