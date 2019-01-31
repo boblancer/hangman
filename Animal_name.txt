@@ -1,0 +1,16 @@
+manatee,sea cow
+pterosaur,first flying reptile
+marlin,second fastest fish
+pangolin,Most trafficked mammal
+mockingbird,a bird which is also a name of a famous book about racism
+penguin,flightless avian
+canine,Man's best friend
+caterpillar,it's looking like avocado sushi
+beetle,boy's favorite insect
+raccoon,a theif
+polar_bear,ursa with black skin
+bison,american bovine
+coyote,desert scavenger
+mongoose,immune agaisnt snake's venom
+black_panther,For Wakanda
+

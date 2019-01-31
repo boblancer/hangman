@@ -1,0 +1,18 @@
+Elon_Musk,He included a car made by his company into a rocket which also made by his own company and launched it to the space
+Charles_Darwin, Main proponent for Theory of Evolution
+Bill_Gates, He sells operating system
+Donald_Trump,Make Murica g8 again!!
+Socrates, Greastest philosopher in human history
+Euclid_of_Alexandria, Invented modern geometry
+Leonardo_da_Vinci, Famous AF painter
+Albert_Einstein,propose Theory of General Relativity
+Linus_Travalds,creator of a operating system which runs on most of the world's server
+Satoshi_Nakamoto,Invented blockchain
+Dennis_Ritchie,Wrote c language and co-develope Unix system
+Larry_page,Google co-founder
+Ada_Lovelace,Lady who was the world first programmer
+Stephen_Hwaking,Handicapped man who contribute to blackhole research
+Aung_San_Suu_Kyi,Burmese Nobel Peace Prize recipient who fought for human right 
+
+
+
